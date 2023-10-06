@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Fadlian7K/doc.pmmp.io
+build-by-default: true
+branches:
+- rtfd
+projects: []
+...
